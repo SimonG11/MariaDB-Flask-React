@@ -1,0 +1,7 @@
+Flask
+flask_cors
+datetime
+mysql.connector
+flask_limiter
+Flask-SQLAlchemy
+PyMySQL
